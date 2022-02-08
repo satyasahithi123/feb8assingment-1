@@ -1,0 +1,9 @@
+comparision operators:
+
+a=6,b=3
+<   (less than)               a<b   =   6 < 3   =   false.
+>   (greater than)            a>b   =   6 > 3   =   true.
+>=  (greater than or equalto) a>=b  =   6 >= 3  =   true.
+<=  (less than or equalto)    a<=b  =   6 <= 3  =   false.
+==  (equal to equal to)       a==b  =   6 == 3  =   false.
+!=  (not equal to)            a!=b  =   6 != 3  =   true.
